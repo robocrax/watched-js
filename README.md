@@ -31,6 +31,7 @@ Without any modifications, let's start the addon and see what will happen.
 Open your terminal, change to the `my-addon` folder and run:
 
 ```shell
+npm i
 npm run develop
 ```
 
